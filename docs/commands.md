@@ -232,6 +232,7 @@ Display question details. With `-g`/`-l`/`-x`, the code template would be auto g
     * c
     * cpp
     * csharp
+    * elixir
     * golang
     * java
     * javascript
